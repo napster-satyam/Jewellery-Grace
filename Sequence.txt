@@ -1,0 +1,7 @@
+The sequence for Execution is:-
+
+Execute cover.cpp and all the files will be called within it depending upon the choices made by the user inside.The cover is basically the login page and screen2 is the main choice page where user can decides what he/she wants to perform..
+
+The username and password for the login page are given in login.txt file.
+Four choices are specified within the login text file.The first text is username followed by password on next line and then again on third line is username and following fourth line is password and so on.You can choose any username and password among the four choices.
+
